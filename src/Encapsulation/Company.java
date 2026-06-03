@@ -2,7 +2,7 @@ package Encapsulation;
 
 public class Company {
 
-	public String company;
+	private String company;
 
 	public String getCompany() {
 		return company;
